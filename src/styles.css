@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 80%;
+  text-decoration: none;
+}
+body {
+  background-color: yellow;
+}
+
+.meaning {
+  color: purple;
+}
+
+.input {
+  border-color: red;
+  color: red;
+}
